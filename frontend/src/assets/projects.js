@@ -61,7 +61,7 @@ const projects = [
       'https://github.com/CodeForPoznan/alinka-electron/blob/master/LICENSE',
     name: 'Alinka',
     partner:
-      'Poradnia Pscyhologiczno-Pedagogiczna w Grodzisku Wielkopolskim oraz Poradnia Pscyhologiczno-Pedagogiczna we Wrześni ',
+      'Poradnia Psychologiczno-Pedagogiczna w Grodzisku Wielkopolskim oraz Poradnia Pscyhologiczno-Pedagogiczna we Wrześni ',
     partnerPage:
       'http://www.grodziskwlkp.naszaporadnia.com/aktualnosci, https://ppp-wrzesnia.pl/',
     stack: [
